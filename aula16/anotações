@@ -1,0 +1,8 @@
+Funções
+strlen() = conta a quantidade de caracteres;
+trim() = recebe dados de um input sem espaços antes e depois do mesmo;
+         ex: "   jose da silva   " com o trim() ficaria "jose da silva";
+ltrim() = left trim, ou seja apenas elimina os espaços do começo;
+rtrim() = right trim, ou seja apenas elimina os espaços do fim";
+str_split() = separa cada letra de um txt;
+implode() ou join() = junta as palavras separadas de um vetor;
